@@ -1,0 +1,225 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "10772"
+	"mapversion" "1"
+	"formatversion" "100"
+	"prefab" "1"
+}
+world
+{
+	"id" "236"
+	"mapversion" "1"
+	"classname" "worldspawn"
+	"skyname" "sky_day01_01"
+	"maxpropscreenwidth" "-1"
+	"detailvbsp" "detail.vbsp"
+	"detailmaterial" "detail/detailsprites"
+}
+entity
+{
+	"id" "237"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-64 1024 129"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "239"
+	"classname" "env_soundscape"
+	"radius" "1024"
+	"soundscape" "Nothing"
+	"StartDisabled" "0"
+	"origin" "-32 1024 129"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "250"
+	"classname" "light_environment"
+	"_ambient" "255 255 255 20"
+	"_ambientHDR" "-1 -1 -1 1"
+	"_AmbientScaleHDR" "1"
+	"_light" "255 255 255 300"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"angles" "90 0 0"
+	"pitch" "0"
+	"SunSpreadAngle" "0"
+	"origin" "0 1024 129"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "252"
+	"classname" "env_fog_controller"
+	"angles" "0 0 0"
+	"farz" "-1"
+	"fogblend" "0"
+	"fogcolor" "255 255 255"
+	"fogcolor2" "255 255 255"
+	"fogcolor2_hdr" "213 213 213"
+	"fogcolor_hdr" "0 0 0"
+	"fogdir" "1 0 0"
+	"fogenable" "0"
+	"fogend" "128"
+	"foglerptime" "0"
+	"fogmaxdensity" "1"
+	"fogstart" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"use_angles" "0"
+	"origin" "32 1024 129"
+	editor
+	{
+		"color" "255 255 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "254"
+	"classname" "env_cubemap"
+	"cubemapsize" "0"
+	"origin" "-96 1024 192"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "257"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-64 960 128"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "259"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-64 1088 128"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "261"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-128 1024 128"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "263"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-128 1088 128"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "265"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-128 960 128"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "267"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-192 1088 128"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "269"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-192 1024 128"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "271"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-192 960 128"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
