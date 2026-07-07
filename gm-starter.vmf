@@ -56,7 +56,7 @@ entity
 	"_light" "255 255 255 300"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
-	"angles" "90 0 0"
+	"angles" "-90 0 0"
 	"pitch" "0"
 	"SunSpreadAngle" "0"
 	"origin" "32 1024 129"
