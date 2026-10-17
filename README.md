@@ -6,6 +6,9 @@ for.
 
 
 ## INFO
+
+Only contributions from via Codeberg or email will be accepted.
+
 Website: https://vilyaem.xyz
 
 Support this project:
